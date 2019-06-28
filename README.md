@@ -51,11 +51,14 @@ Um exemplo de um neurônio simples, mas útil na vida real, é um que:
 Conexões são como canais entre os neurônios. Eles **conectam saídas de um neurônio com as entradas de outro** para que possam enviar dígitos uns aos outros. Cada conexão tem apenas um parâmetro, o **peso**. **O peso é como uma força de conexão para um sinal**. Quando o número 10 passa por uma conexão com um peso de 0,5, ele se transforma em 5.
 
 Esses pesos dizem ao neurônio para responder **mais a uma entrada e menos a outra**. Os pesos são **ajustados durante o treinamento** - é assim que a rede **aprende**.
-
+<br />
 <p align="center">
   <img src="https://i.vas3k.ru/7wf.jpg" alt="neurônio" />
   <br />
   <sub>Neurônio que realiza função descrita acima</sub>
 </p>
+
+Para impedir que a rede caia na anarquia, os **neurônios são ligados por camadas**, não aleatoriamente. Dentro de uma camada os neurônios não se unem, mas **unem-se as camadas seguintes e as camadas anteriores**. Os dados na rede vão estritamente em uma direção - **das entradas da primeira camada às saídas da última**.
+
 
 
