@@ -58,7 +58,13 @@ Esses pesos dizem ao neurônio para responder **mais a uma entrada e menos a out
   <sub>Neurônio que realiza função descrita acima</sub>
 </p>
 
-Para impedir que a rede caia na anarquia, os **neurônios são ligados por camadas**, não aleatoriamente. Dentro de uma camada os neurônios não se unem, mas **unem-se as camadas seguintes e as camadas anteriores**. Os dados na rede vão estritamente em uma direção - **das entradas da primeira camada às saídas da última**.
+Para impedir que a rede caia na anarquia, os **neurônios são ligados por camadas**, não aleatoriamente. Dentro de uma camada os neurônios não se unem, mas **unem-se as camadas seguintes e as camadas anteriores**. Os dados desse tipo de rede vão estritamente em uma direção - **das entradas da primeira camada às saídas da última**.
+<br />
+<p align="center">
+  <img src="http://conteudo.icmc.usp.br/pessoas/andre/research/neural/image/camadas_an.gif" alt="rede neural" />
+  <br />
+  <sub>Conjunto de neurônios, agrupados em camadas, formando uma rede neural</sub>
+</p>
 
 
 
