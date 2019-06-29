@@ -14,11 +14,15 @@ Repositório dedicado a introduzir os conhecimentos de *Deep Learning* para qual
 
 A Pokédex é um dispositivo eletrônico projetado para catalogar e fornecer informações sobre as várias espécies de Pokémon presentes nos videogames, animes e mangás de Pokémon. O nome Pokédex é um neologismo que inclui "Pokémon" (que em si é uma junção de "bolso" e "monstro") e "índice". No anime Pokemon, ela é capaz de identificar os pokemons já catalogados com uma simples imagem.
 </br>
+
 <p align="center">
-  <img src="https://i.gifer.com/7KTA.gif" alt="Pokedex" />
+  <img src="https://imgur.com/Rq3QGJs.gif" alt="butterfree" />
   <br />
   <sub>No anime pokemon, a pokedex sendo utilizada para fornecer informações sobre uma Butterfree</sub>
 </p>
+
+E esse é um dos tipos de técnologias que um modelo de **inteligencia artificial** baseado em ***deep learning*** pode proporcionar!
+
 ## Mas o que é *Deep Learning*?
 
 Antes de tudo, precisamos enteder os conceitos de **Inteligencia Artificial**, **Machine Learning**, **Deep Learning**.
