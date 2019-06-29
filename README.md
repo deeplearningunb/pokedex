@@ -80,5 +80,48 @@ Para impedir que a rede caia na anarquia, os **neurônios são ligados por camad
   <sub>Conjunto de neurônios, agrupados em camadas, formando uma rede neural</sub>
 </p>
 
+"Ok, eu entendi o que é uma rede neural, mas e agora?"
 
+Agora é o momento de lhe apresentar a galinha dos ovos de ouro, a **rede neural convolucional**.
+
+## Mas o que é uma Rede Neurais Convolucional?
+
+São uma classe de rede neural artificial que vem sendo aplicada com sucesso no **processamento e análise de imagens digitais**. Eles são usados para procurar objetos em fotos e vídeos, reconhecimento de face, geração e aprimoramento de imagens, criação de efeitos como slow-motion e melhoria da qualidade de imagens.
+
+<p align="center">
+  <img src="https://i.vas3k.ru/7rz.jpg" alt="rede neural convolucional" />
+  <br />
+  <sub>Imagem gerada pelo Detectron, plataforma de detecção de objetos do facebook</sub>
+</p>
+<br />
+Mais alguns exemplos de como essa tecnologia está avançando cada vez mais rapidamente:
+
+<p align="center">
+  <img src="https://www.crcv.ucf.edu/projects/3D-CNN-segmentation/blackswan.gif"/>
+  <br />
+  
+  <img src="https://www.crcv.ucf.edu/projects/3D-CNN-segmentation/bmx-trees.gif"/>
+  <br />
+  
+  <img src="https://www.crcv.ucf.edu/projects/3D-CNN-segmentation/drift-chicane.gif"/>
+  <br />
+  
+  <img src="https://www.crcv.ucf.edu/projects/3D-CNN-segmentation/libby.gif"/>
+  <br />
+  
+  <sub>Detecções de objetos realizadas em vídeos</sub>
+</p>
+
+Incrivel não é? Treinando nossa rede neural convolucional com nossa [base de fotos de pokemons](https://www.kaggle.com/brkurzawa/original-150-pokemon-image-search-results/downloads/original-150-pokemon-image-search-results.zip/1), buscamos um resultado parecido!
+
+
+Referencias:
+< br/>
+https://imasters.com.br/desenvolvimento/qual-e-diferenca-entre-ai-machine-learning-e-deep-learning
+https://imasters.com.br/devsecops/redes-neurais-artificiais-o-que-sao-onde-vivem-do-que-se-alimentam
+http://conteudo.icmc.usp.br/pessoas/andre/research/neural/
+https://vas3k.com/blog/machine_learning/
+https://pokemon.fandom.com/wiki/Pok%C3%A9dex
+https://github.com/facebookresearch/Detectron
+https://www.crcv.ucf.edu/projects/3D-CNN-segmentation/
 
