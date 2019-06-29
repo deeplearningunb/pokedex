@@ -116,7 +116,7 @@ Incrivel não é? Treinando nossa rede neural convolucional com nossa [base de f
 
 
 Referencias:
-< br/>
+<br />
 https://imasters.com.br/desenvolvimento/qual-e-diferenca-entre-ai-machine-learning-e-deep-learning
 https://imasters.com.br/devsecops/redes-neurais-artificiais-o-que-sao-onde-vivem-do-que-se-alimentam
 http://conteudo.icmc.usp.br/pessoas/andre/research/neural/
