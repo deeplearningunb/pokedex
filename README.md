@@ -1,4 +1,4 @@
-
+Colaboradores: @fepas, @CaioNunes, @CarlosAragon
 # Pokedex
 
 Repositório dedicado a introduzir os conhecimentos de *Deep Learning* para qualquer pessoa! Com um exemplo baseado no reconhecimento de pokemons!
